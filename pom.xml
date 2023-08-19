@@ -28,12 +28,12 @@
     <repository>
         <id>central</id>
         <name>abc-releases</name>
-        <url>http://18.118.226.105:8081/artifactory/smtutes-repo</url>
+        <url>http://3.15.139.0:8081/artifactory/smtutes-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
         <name>abc-snapshots</name>
-        <url>http://18.118.226.105:8081/artifactory/smtutes-repo</url>
+        <url>http://3.15.139.0:8081/artifactory/smtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
   
