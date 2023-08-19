@@ -23,20 +23,18 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
- <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
-        <name>S40-Batch-releases</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>abc-releases</name>
+        <url>http://18.118.226.105:8081/artifactory/smtutes-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>S40-Batch-snapshots</name>
-        <url>http://18.117.70.160:8081/artifactory/vmtutes-repo</url>
+        <name>abc-snapshots</name>
+        <url>http://18.118.226.105:8081/artifactory/smtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
-
  <build>
     <plugins>
         <plugin>
