@@ -23,6 +23,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
 <distributionManagement>
     <repository>
         <id>central</id>
@@ -35,6 +36,7 @@
         <url>http://18.118.226.105:8081/artifactory/smtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
+  
  <build>
     <plugins>
         <plugin>
