@@ -27,13 +27,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>abc-releases</name>
-        <url>http://3.15.139.0:8081/artifactory/smtutes-repo</url>
+        <name>S40-Batch-releases</name>
+        <url>http://3.144.235.57:8081/artifactory/mtutes-repo</url>
     </repository>
     <snapshotRepository>
         <id>central</id>
-        <name>abc-snapshots</name>
-        <url>http://3.15.139.0:8081/artifactory/smtutes-repo</url>
+        <name>S40-Batch-snapshots</name>
+        <url>http://3.144.235.57:8081/artifactory/mtutes-repo</url>
     </snapshotRepository>
 </distributionManagement>
   
